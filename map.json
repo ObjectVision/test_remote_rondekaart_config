@@ -4,21 +4,7 @@
     52.35
   ],
   "zoom": 7,
-  "variants": {
-    "default": "bereikbaarheid_bzk",
-    "items": [
-      {
-        "id": "bereikbaarheid_bzk",
-        "label": "Elke Regio Telt"
-      },
-      {
-        "id": "windturbinenorm",
-        "label": "Windturbinenorm"
-      }
-    ]
-  },
   "basemap": "grijs",
-  "studyarea": "ber_studiegebied",
   "streetview": true,
   "searchbar": false,
   "navigation": true,
